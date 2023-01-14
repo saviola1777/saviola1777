@@ -20,13 +20,13 @@
 - ⚡ I like to write code, do sports, spend time in nature
 - 📫 How to reach me **draganchuk1991@ukr.net**
 - 🥅 I am constantly learning new things
-- ⚡ Конспект React: [ <img align="left" alt="Влад Калачов | YouTube" width="22px" https://www.edu.goit.global/uk/learn/5865028/31183/31218/textbook /> ]
+- ⚡ Конспект React: <img align="left" alt="Влад Калачов | YouTube" width="22px" <a href="https://www.edu.goit.global/uk/learn/5865028/31183/31218/textbook"></a>
 
 
 ###  Зв'язатися зі мною:
 
-<!-- [ <img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" / > [веб-сайт] -->
-[ <img align="left" alt="Влад Калачов | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> ] 
+
+[ <img align="left" alt="Влад Калачов | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> ютуб ] 
 [ <img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> ] 
 [ <img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> ] 
 [ <img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" /> ] 
