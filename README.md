@@ -20,7 +20,7 @@
 - ⚡ I like to write code, do sports, spend time in nature
 - 📫 How to reach me **draganchuk1991@ukr.net**
 - 🥅 I am constantly learning new things
-- ⚡ Конспект React: <a href="https://www.edu.goit.global/uk/learn/5865028/31183/31218/textbook" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keyboardslaping" height="30" width="40" /></a>
+- ⚡ Конспект React: <a href="https://www.edu.goit.global/uk/learn/5865028/31183/31218/textbook" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keyboardslaping" height="30" width="40" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>&nbsp;
 
 
 ###  Зв'язатися зі мною:
