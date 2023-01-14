@@ -15,12 +15,12 @@
 
 
 
-##  I'm learning to be a Full Stack Developer акщь Ukraine 
+##  I'm learning to be a Full Stack Developer from Ukraine 
 
 - ⚡ I like to write code, do sports, spend time in nature
 - 📫 How to reach me **draganchuk1991@ukr.net**
 - 🥅 I am constantly learning new things
-- ⚡ Конспект React: <img align="left" alt="Влад Калачов | YouTube" width="22px" <a href="https://www.edu.goit.global/uk/learn/5865028/31183/31218/textbook"></a>
+- ⚡ Конспект React: <a href="https://www.edu.goit.global/uk/learn/5865028/31183/31218/textbook"><img align="left" alt="Олександр Драганчук" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/> </a>
 
 
 ###  Зв'язатися зі мною:
