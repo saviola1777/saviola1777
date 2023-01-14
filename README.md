@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###  Hi 👋, I'm Oleksandr Drahanchuk
+### <h1 align="center">  Hi 👋, I'm Oleksandr Drahanchuk</h1>
 
 <!-- ![](https://komarev.com/ghpvc/?username=VladKalachev) -->
 
