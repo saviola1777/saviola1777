@@ -20,7 +20,7 @@
 - ⚡ I like to write code, do sports, spend time in nature
 - 📫 How to reach me **draganchuk1991@ukr.net**
 - 🥅 I am constantly learning new things
-- ⚡ Конспект React:  [Конспект](https://www.edu.goit.global/uk/learn/5865028/31183/31218/textbook/)
+- ⚡ Конспект React:  [<img align="left" alt="Влад Калачов | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> ](https://www.edu.goit.global/uk/learn/5865028/31183/31218/textbook/)
 
 
 ###  Зв'язатися зі мною:
@@ -43,7 +43,4 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-
-<br />
-<br />
 
