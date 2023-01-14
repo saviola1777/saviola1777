@@ -2,11 +2,8 @@
 <!--
 **saviola1777/saviola1777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on [project "Filmoteka"](https://github.com/besha2vox/goit-js-teamproject-filmoteka/)
-
 - 🌱 I’m currently learning **Js, React.js, Node.js**
-- 📫 How to reach me **besha2vox@gmail.com**
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 📫 How to reach me **besha2vox@gmail.com**..
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -18,7 +15,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=VladKalachev) -->
 
-##  Я FrontEnd розробник і викладач
+##  Я FrontEnd розробник 
 - 💪 Я люблю писати код
 - 📫 How to reach me **draganchuk1991@ukr.net**
 - 🥅 Я постійно навчаюся новому
@@ -49,19 +46,3 @@
 <br />
 <br />
 
-### Повідомлення в  блозі:
-<!-- BLOG-POST-LIST:START -->
-- [ Деструктуризация в JavaScript ](https://webtricks-master.ru/javascript/destrukturizatsiya-v-javascript/)
-- [ Пишем список задач на React Hooks ](https://webtricks-master.ru/react-hooks/pishem-spisok-zadach-na-react-hooks/)
-- [ Custom Hooks на прикладах. Пишем свой useInput, useFetch, useTheme — React Hooks ](https://webtricks-master.ru/react-hooks/custom-hooks-na-primerah-pishem-svoj-useinput-usefetch-usetheme-react-hooks/)
-- [ Як підключити Sass до React? ](https://webtricks-master.ru/beginners/kak-podklyuchit-sass-k-react/)
-- [ Обзор VSCode Stories. Плагіни Visual Studio Code ](https://webtricks-master.ru/novosti-it/obzor-vscode-stories-plaginy-visual-studio-code/)
-<!-- BLOG-POST-LIST:END -->
-
-
-
-[ сайт ]: https://webtricks-master.ru/
-[ youtube ]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
-[ linkedin ]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
-[ інстаграм ]: https://www.instagram.com/corvaxv/
-[ vk ]: https://vk.com/vladislavkalachov
