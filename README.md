@@ -1,10 +1,10 @@
-### Hi there 👋
 
 <!--
 **saviola1777/saviola1777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [project "Filmoteka"](https://github.com/besha2vox/goit-js-teamproject-filmoteka/)
 
-Here are some ideas to get you started:
-
+- 🌱 I’m currently learning **Js, React.js, Node.js**
+- 📫 How to reach me **besha2vox@gmail.com**
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###  Привіт 👋, я Влад
+###  Hi 👋, I'm Oleksandr Drahanchuk
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
+<!-- ![](https://komarev.com/ghpvc/?username=VladKalachev) -->
 
 ##  Я FrontEnd розробник і викладач
 - 💪 Я люблю писати код
-- 🎉 Люблю малювати та грати на гітарі
+- 📫 How to reach me **draganchuk1991@ukr.net**
 - 🥅 Я постійно навчаюся новому
-- ⚡ Мені подобається писати статті для https://webtricks-master.ru/
-- 🤹🏽 Мені подобається знімати відео для youtube
+- ⚡ Конспект React: https://www.edu.goit.global/uk/learn/5865028/31183/31218/textbook
+
 
 ###  Зв'язатися зі мною:
 
@@ -58,21 +58,7 @@ Here are some ideas to get you started:
 - [ Обзор VSCode Stories. Плагіни Visual Studio Code ](https://webtricks-master.ru/novosti-it/obzor-vscode-stories-plaginy-visual-studio-code/)
 <!-- BLOG-POST-LIST:END -->
 
-###  Мої відео YouTube:
-<!-- YOUTUBE:START -->
-- [ Як знайти роботу джуну без досвіду? пошаговая інструкція ](https://www.youtube.com/watch?v=DzyKrIBHln8)
-- [ Пишем список завдань на React (React Hooks) ](https://www.youtube.com/watch?v=XwIiBXZ41Os)
-- [ Custom Hooks на прикладах. Пишем свой useInput, useFetch, useTheme - React Hooks ](https://www.youtube.com/watch?v=VFefv_YSGfY)
-- [ Учим useLayoutEffect за 6 хвилин - React Hooks ](https://www.youtube.com/watch?v=KaaH6cra2lo)
-- [ Учим useCallback за 7 хвилин - React Hooks ](https://www.youtube.com/watch?v=AqCkWH4ws1Y)
-<!-- YOUTUBE:END -->
 
-<подробиці>
-  <summary> : zap : Статистика:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
-</details>
 
 [ сайт ]: https://webtricks-master.ru/
 [ youtube ]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
