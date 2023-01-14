@@ -13,17 +13,14 @@
 -->
 <h1 align="center">  Hi 👋, I'm Oleksandr Drahanchuk</h1>
 
-<!-- ![](https://komarev.com/ghpvc/?username=VladKalachev) -->
 
-##  Я FrontEnd розробник 
 
-- 💪 Я люблю писати код
-- 
+##  I'm learning to be a Full Stack Developer акщь Ukraine 
+
+- ⚡ I like to write code, do sports, spend time in nature
 - 📫 How to reach me **draganchuk1991@ukr.net**
-- 
-- 🥅 Я постійно навчаюся новому
-- 
-- ⚡ Конспект React: https://www.edu.goit.global/uk/learn/5865028/31183/31218/textbook
+- 🥅 I am constantly learning new things
+- ⚡ Конспект React: (https://www.edu.goit.global/uk/learn/5865028/31183/31218/textbook)
 
 
 ###  Зв'язатися зі мною:
